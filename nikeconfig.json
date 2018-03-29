@@ -1,14 +1,14 @@
 {
-	"getsmsemail":"............@gmail.com",
-	"getsmstoken":".................................",
-	"nikeaccountname":"Sonya Roy",
-	"nikemainemail":"sonyaroy75@gmail.com",
+	"getsmsemail":"kadensdimarco@gmail.com",
+	"getsmstoken":"77e3375f91bf7cb7aaea522fed74b351",
+	"nikeaccountname":"Kaden DiMarco",
+	"nikemainemail":"kadensdimarco@gmail.com",
 	"useowndomain":false,
-	"nikeaccountpassword":"SoNyArOy75",
+	"nikeaccountpassword":"Timber1s",
 	"maxaccounts":1000,
-	"savetofile":"nikeemails.txt",
+	"savetofile":"NIKE.rtf",
 	"maxthreads":10,
-	"proxyfilename":"proxylist.txt",
+	"proxyfilename":"proxies.txt",
 	"nikeaccountcountry":"US",
 	"minintervalbetweenrequests":1
 }
